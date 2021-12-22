@@ -93,6 +93,7 @@ ul {
   letter-spacing: 0.06em;
   color: var(--add-color);
   background-color: var(--accent-color);
+  cursor: pointer;
 }
 
 /* --------------Benefits-------------- */
@@ -221,6 +222,7 @@ ul {
   letter-spacing: 0.03em;
   color: var(--main-color);
   background-color: var(--add-bgc-color);
+  cursor: pointer;
 }
 
 .portfolio-btn:hover,
